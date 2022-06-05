@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY . .
 
-RUN python -m pip install --upgrade pip && python -m pip install --upgrade jinja2 && pip install -r reqirements.txt
+RUN python -m pip install --upgrade pip && python -m pip install --upgrade jinja2 && pip install --no-cache-dir -r reqirements.txt
 
 ENTRYPOINT ["python"]
 CMD ["app.py"]
