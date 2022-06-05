@@ -1,5 +1,5 @@
 # Docker, Python, Flask Development Environment
-This docker environment contains a flask application that you can use to start development of projects in Python and Flask, use the released v1.0 to start your development locally.
+This docker environment contains a flask application that you can use to start development of projects in Python and Flask, use the released v1.0 to start your development locally on a stable platform or use the development branch to get latest versions of packages (Can be unstable at times).
 
 ### What you get
 
