@@ -2,7 +2,7 @@
 This docker environment contains a flask application that you can use to start development of projects in Python and Flask, use the released v1.0 to start your development locally on a stable platform or use the development branch to get latest versions of packages (Can be unstable at times).
 
 ### What you get
-You can find the service(s) below in your browser by going to http://<service_name>:<port_name>
+You can find the service(s) below in your browser by going to http://<service_name>:<port_number>
 
 | Service  | Port |
 | --- | --- |
